@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Syed Hassan Raza Rezve!!
 
-I am a dedicated and enthusiastic Junior Web Developer with one year of experience in Laravel, PHP, JavaScript, HTML, CSS, and Bootstrap technologies. Throughout my career, I have gained a strong foundation in web development and have successfully delivered projects using these technologies. I have a keen eye for detail and strive to create clean, efficient, and user-friendly web applications. I am passionate about staying up-to-date with the latest industry trends and continuously expanding my knowledge and skills. As a Junior Web Developer, I am eager to contribute to collaborative projects and further enhance my expertise in web development.
+I am a dedicated and enthusiastic Web Developer with one year of experience in Laravel, PHP, JavaScript, React, HTML, CSS, and Bootstrap technologies. Throughout my career, I have gained a strong foundation in web development and have successfully delivered projects using these technologies. I have a keen eye for detail and strive to create clean, efficient, and user-friendly web applications. I am passionate about staying up-to-date with the latest industry trends and continuously expanding my knowledge and skills. As a Junior Web Developer, I am eager to contribute to collaborative projects and further enhance my expertise in web development.
 
 ---
 
