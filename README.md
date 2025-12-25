@@ -7,7 +7,32 @@ Recent work includes AI chatbots, recommendation systems, and workflow automatio
 
 ### 🧰ToolBox
 
-<img src="https://laravel.com/img/logomark.min.svg" width="50" height="50">  <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP Logo" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50">
+<img src="https://laravel.com/img/logomark.min.svg" width="50" height="50">
+<img src="https://www.php.net/images/logos/new-php-logo.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50">
+
+<!-- Python -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50">
+
+<!-- CI/CD (GitHub Actions example) -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="50" height="50">
+
+<!-- AI Chatbot -->
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712099.png" width="50" height="50" alt="AI Chatbot">
+
+<!-- Docker -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50">
+
+<!-- Tailwind CSS -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50">
+
 
 <!--
 **hassanrezve/hassanrezve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
