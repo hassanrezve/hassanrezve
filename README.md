@@ -1,4 +1,4 @@
-### Hi there 👋, I am Syed Hassan Raza Rezve!!
+### Hi there 👋, I am Syed Hassan Raza !!
 
 I am a dedicated Full‑Stack Web & AI Developer with experience in Laravel, PHP, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS, Alpine.js, Docker, Git, and server‑side scripting. I build modern, scalable applications and integrate intelligent features using Python, AI/ML techniques, and cloud AI services. I focus on clean, efficient, and user‑friendly solutions, staying current with industry trends and continuously expanding my skills.
 
